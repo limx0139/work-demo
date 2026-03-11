@@ -24,7 +24,7 @@ title: 'Arches Carpentry' # FIXME
 created:
 
 # Comma-separated list of keywords for the lesson
-keywords: 'software, data, lesson, The Carpentries' # FIXME
+keywords: 'Arches, Carpentry' # FIXME
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
@@ -34,7 +34,7 @@ life_cycle: 'pre-alpha' # FIXME
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/carpentries/workbench-template-md' # FIXME
+source: 'https://github.com/limx0139/work-demo' # FIXME
 
 # Default branch of your lesson
 branch: 'main'
@@ -69,6 +69,7 @@ episodes:
 - 01-Intro_to_Arches.md
 - 02-Navigating_Arches_UI.md
 - 03-Understanding_Arches_Database.md
+
 # Information for Learners
 learners: 
 
