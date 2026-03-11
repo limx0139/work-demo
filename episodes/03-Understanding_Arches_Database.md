@@ -1,6 +1,6 @@
-title: "Using Markdown"
-teaching: 20 # teaching time in minutes
-exercises: 10 # exercise time in minutes
+title: "Arches Database Basics"
+teaching: 15 # teaching time in minutes
+exercises: 5 # exercise time in minutes
 ---
 :::::::::::::::::::::::::::::::::::::: questions 
 
@@ -36,6 +36,14 @@ For instance, suppose we were to define a database to store the list of passenge
 This Resource Package has 3 different Resource Models, for People, the Lodgings available as well as the Groups involved on the ship. Of which, instances of the lodging may include First, Second and Third Class rooms, and the Groups include Passengers and Crew. These are Instances of Resource Models. We also illustrate the structure of the Resource Model for People to contain their names, lodgings, group and fate. 
 
 Under this structure, an instance of a Person recorded in the database may include their name, the type of room they were staying in, whether they were passenger or crew and whether they survive the tragedy.
+
+Naturally, this is not exhaustive. Other relevant categories such as nationality or gender and familiar relations can be added. We can also include workers of Harland and Wolff, the company responsible for the construction of the ship, as well as artefacts associated with and retrieved from the ship.
+
+So, a relationship graph for a person resource in this database may look like this:
+
+![](images/03-03-Person.png)
+
+This describes a John Doe who is male, Irish, boarded the ship as a member of the crew, stayed in third-class lodging, who died in the sinking of the ship.
 
 # Exercise: Intuition for Resource Models.
 

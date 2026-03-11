@@ -1,5 +1,5 @@
 ---
-title: "Using Markdown"
+title: "Navigating Arches UI"
 teaching: 10 # teaching time in minutes
 exercises: 10 # exercise time in minutes
 ---
