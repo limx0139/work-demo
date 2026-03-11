@@ -2,4 +2,4 @@
 title: 'Instructor Notes'
 ---
 
-This is a placeholder file. Please add content here. 
+This will go through some notes and arches installation troubleshooting one might encounter with the programme.

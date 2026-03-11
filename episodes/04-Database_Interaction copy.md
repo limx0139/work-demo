@@ -17,3 +17,6 @@ exercises: 2 # exercise time in minutes
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Introduction
+
+Here, we head back to the Arches for HER demo to try our hand at adding a new resource. https://herdemo.archesproject.org/index.htm 
